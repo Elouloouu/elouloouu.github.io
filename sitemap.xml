@@ -2,42 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://my-wiki.com/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://my-wiki.com/apis/</loc>
+         <lastmod>2023-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://my-wiki.com/certifications/</loc>
+         <lastmod>2023-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://my-wiki.com/design/</loc>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://my-wiki.com/development/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://my-wiki.com/hosting/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://my-wiki.com/operating_systems/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://my-wiki.com/operating_systems_tools/</loc>
-         <lastmod>2023-12-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://my-wiki.com/photos_illus_fonts_icons_colors_videos/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://my-wiki.com/presentation_tools/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://my-wiki.com/ui_design/</loc>
-         <lastmod>2023-12-20</lastmod>
+         <loc>https://my-wiki.com/transcription/</loc>
+         <lastmod>2023-12-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
